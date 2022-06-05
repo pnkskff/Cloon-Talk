@@ -12,7 +12,7 @@ II. NOTES:
 
   1. Built with HTML/CSS/JS/API.
    
-  3. Cloon Talk API - 'https://v2.jokeapi.dev/joke/Any?safe-mode
+  3. Cloon Talk API - https://v2.jokeapi.dev/joke/Any?safe-mode
 
 III. OPTIMIZATION:
 
