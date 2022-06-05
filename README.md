@@ -4,9 +4,9 @@ I. INTRO:
 
   1. Cloon Talk Site: https://cloontalk.netlify.app/
 
-  2. This is an App to pull Random Jokes from a Joke API, app then displays:
+  2. This is an App to pull random jokes from a Joke API, app then displays:
     
-     a. A Random Suitable for Work (SFW) Joke. 
+     a. A random Suitable for Work (SFW) Joke. 
 
 II. NOTES:
 
