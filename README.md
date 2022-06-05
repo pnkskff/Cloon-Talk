@@ -22,7 +22,7 @@ III. OPTIMIZATION:
   
   3. Write JS that picks an API from the 10 above randomly, then pulls a Random SFW Joke from said API.
 
-IV: FURTHER INFO:
+IV. FURTHER INFO:
 
   1. Readme last updated on: JUNE 2022
 
